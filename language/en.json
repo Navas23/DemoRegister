@@ -1,11 +1,8 @@
 
 {
 
-    "emptyList" : "You don't have any contact yet, open Contacts and look for them.",
-    "newMessage" : "New Message",
-    "statusOnline" : "Online",
-    "statusBusy" : "Busy",
-    "statusAway" : "Away", 
-    "statusDisconnect" : "Disconnect"
+    "title" : "You like it and you know it",
+    "text" : "Sign up to get your 25Gb",
+    "button" : "Sign up"
 
 }

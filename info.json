@@ -24,9 +24,9 @@
 
                 "register" : {
 
-                    "template" : "list.html",
-                    "css"      : ["list.css"],
-                    "script"   : ["list.js"],
+                    "template" : "register.html",
+                    "css"      : ["register.css"],
+                    "script"   : ["register.js"],
 
                     "alwaysInFront" : true
 

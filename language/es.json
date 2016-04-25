@@ -1,11 +1,8 @@
 
 {
-    
-    "emptyList" : "No tienes contactos todavía, abre Contactos y búscalos.",
-    "newMessage" : "Nuevo mensaje",
-    "statusOnline" : "Conectado",
-    "statusBusy" : "Ocupado",
-    "statusAway" : "Ausente", 
-    "statusDisconnect" : "Desconectar"
+
+  "title" : "Te gusta y lo sabes",
+  "text" : "Regístrate y consigue tus 25Gb",
+  "button" : "Regístrate"
 
 }

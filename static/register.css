@@ -1,0 +1,40 @@
+
+.wz-widget{
+  bottom: 33px;
+  right: 45px;
+  width: 441px;
+  height: 158px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 1px 4px rgba(0,0,0,.3);
+	box-shadow: 0 1px 4px rgba(0,0,0,.3);
+}
+
+.title{
+  margin: 26px 26px 20px 26px;
+  color: #545f65;
+  font-size: 17px;
+  font-family: Lato;
+  font-weight: bold;
+}
+
+.text{
+  color: #545f65;
+  font-size: 15px;
+  font-family: Lato;
+  margin-left: 26px;
+  margin-right: 26px;
+  line-height: 1.3em;
+}
+
+.ui-btn.accept{
+  outline: none;
+  width: 125px;
+  height: 34px;
+  position: absolute;
+  bottom: 19px;
+  right: 25px;
+}
